@@ -18,7 +18,7 @@ modelo.fit(X,y)
 app = Flask(__name__)
 CORS(app)
 
-#Criando a primeira rota e método 
+#Criando a primeira rota e métodos
 
 @app.route("/", methods = ["GET"])
 def inicio():
