@@ -1,6 +1,3 @@
-Com certeza! Aqui está o README completo em Markdown, pronto para **copiar e colar de uma só vez** no seu arquivo `README.md`:
-
----
 
 # 🎮 Retro Car Predictor — README
 
@@ -13,7 +10,7 @@ Com certeza! Aqui está o README completo em Markdown, pronto para **copiar e co
 - **Site (frontend):** [1]
 - **API (backend):** [2]
 
-> ✅ Este projeto foi **desenvolvido por você**. Todos os créditos e a autoria pertencem ao criador desta aplicação.
+> ✅ Este projeto foi **desenvolvido por Emilly**. Todos os créditos e a autoria pertencem a criadora desta aplicação.
 
 ---
 
@@ -192,7 +189,7 @@ curl -X POST [4] \
 
 ## 👤 Desenvolvedor
 
-**Desenvolvido por você** 🚀
+**Desenvolvido por Emilly** 🚀
 
 Todos os direitos e créditos pertencem ao autor original desta aplicação.
 
