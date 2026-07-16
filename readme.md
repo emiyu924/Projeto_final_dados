@@ -1,6 +1,3 @@
-Com certeza! Aqui está o README completo em Markdown, pronto para **copiar e colar de uma só vez** no seu arquivo `README.md`:
-
----
 
 # 🎮 Retro Car Predictor — README
 
