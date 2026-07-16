@@ -13,7 +13,7 @@ Com certeza! Aqui está o README completo em Markdown, pronto para **copiar e co
 - **Site (frontend):** [1]
 - **API (backend):** [2]
 
-> ✅ Este projeto foi **desenvolvido por você**. Todos os créditos e a autoria pertencem ao criador desta aplicação.
+> ✅ Este projeto foi **desenvolvido por Emilly**. Todos os créditos e a autoria pertencem a criadora desta aplicação.
 
 ---
 
@@ -192,19 +192,12 @@ curl -X POST [4] \
 
 ## 👤 Desenvolvedor
 
-**Desenvolvido por você** 🚀
+**Desenvolvido por Emilly** 🚀
 
 Todos os direitos e créditos pertencem ao autor original desta aplicação.
 
 ---
 
-## 📄 Licença
-
-*(Não especificada. Recomenda-se adicionar um arquivo `LICENSE` — ex: MIT ou Apache 2.0 — para definir os termos de uso e distribuição.)*
-
----
-
-*README gerado com auxílio do Sabiá-4, mantendo links ativos e autoria atribuída a você.*
 
 ## Referências
 
